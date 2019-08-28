@@ -8,7 +8,7 @@ Fix it and compile the RMarkdown file. Then, stage the changes and commit to you
 
 
 ```{r}
-a <- runif(n=99)
+a <- runif(n=100)
 b <- runif(n=100)
-plot(x, y)
+plot(a, b)
 ```
